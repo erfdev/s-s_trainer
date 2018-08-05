@@ -30,4 +30,5 @@ Directories:
 
 References:
 
+https://github.com/mrnugget/opencv-haar-classifier-training
 
