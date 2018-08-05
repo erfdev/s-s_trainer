@@ -1,5 +1,9 @@
-# s-s_trainer
-Sword and Souls Game Trainer Using Object Detection and Machine Learning
+# Sword and Souls Trainer
+
+Sword and Souls Game Trainer Using Machine Learning and Object Detection
+
+https://www.kongregate.com/games/SoulGame/swords-and-souls
+Game By:Soulgame
 
 Objective:
 
@@ -8,10 +12,15 @@ Objective:
 Libraries used for this project:
 OpenCV
 Python
+
   NumPy
+  
   OpenCV
+  
   Sklearn?
+  
   TensorFlow?
+  
   ...
   
 Directories:
@@ -21,4 +30,5 @@ Directories:
 
 References:
 
+https://github.com/mrnugget/opencv-haar-classifier-training
 
