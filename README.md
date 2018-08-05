@@ -12,10 +12,15 @@ Objective:
 Libraries used for this project:
 OpenCV
 Python
+
   NumPy
+  
   OpenCV
+  
   Sklearn?
+  
   TensorFlow?
+  
   ...
   
 Directories:
